@@ -1,0 +1,18 @@
+header{
+	font-family: New Times Roman;
+	color: black;
+	background: #334081;
+	margin: 0 auto 0 
+}
+header#brand{
+	display: block;
+	margin-bottom: 30%;
+}
+footer{
+	color: white;
+	background: #334081;
+	margin-top: 22%;
+}
+section.nav-wrapper{
+	color: white;
+}
